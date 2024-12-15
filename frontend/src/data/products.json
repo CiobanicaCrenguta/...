@@ -1,0 +1,1213 @@
+[
+    {
+      "id": 1,
+      "name": "Tutun  Camel Blue Light la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Tutunul de marcă Camel este renumit pentru aroma sa distinctivă și echilibrată, cu influențe orientale. Este popular pentru calitatea premium și amestecul unic de tutunuri turcești și americane.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image":  "/src/assets/Tutun  Camel Blue Light la găleată și la pungă.png.jpg",
+      "rating": 4.9
+    },
+
+    {
+      "id": 2,
+      "name": "Tutun  Camel la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Tutunul de marcă Camel este renumit pentru aroma sa distinctivă și echilibrată, cu influențe orientale. Este popular pentru calitatea premium și amestecul unic de tutunuri turcești și americane.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image":  "/src/assets/Tutun  Camel la găleată și la pungă.png.jpg.png",
+      "rating": 4.9
+    },
+
+    {
+      "id": 3,
+      "name": "Tutun Davidoff Classic la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Tutunul Davidoff se remarcă prin eleganță și rafinament, oferind arome fine și bine echilibrate. Este asociat cu standarde înalte de calitate și o experiență premium pentru fumători.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun  Davidoff Classic  la găleată și la pungă.png",
+      "rating": 4.9
+    },
+
+    {
+      "id": 4,
+      "name": "Tutun  Malboro Blend 29 la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Tutunul Marlboro oferă o aromă bogată și echilibrată, cu note ușor lemnoase și accente subtile de dulceață. Este apreciat pentru intensitatea moderată și textura sa netedă, care asigură o experiență plăcută și consistentă.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun  Malboro Blend 29 la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 5,
+      "name": "Tutun  Malboro Gold Original KS la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Tutunul Marlboro oferă o aromă bogată și echilibrată, cu note ușor lemnoase și accente subtile de dulceață. Este apreciat pentru intensitatea moderată și textura sa netedă, care asigură o experiență plăcută și consistentă.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun  Malboro Gold Original KS la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 6,
+      "name": "Tutun  Malboro Gold Original la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Tutunul Marlboro oferă o aromă bogată și echilibrată, cu note ușor lemnoase și accente subtile de dulceață. Este apreciat pentru intensitatea moderată și textura sa netedă, care asigură o experiență plăcută și consistentă.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun  Malboro Gold Original la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 7,
+      "name": "Tutun  Malboro Light la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Tutunul Marlboro oferă o aromă bogată și echilibrată, cu note ușor lemnoase și accente subtile de dulceață. Este apreciat pentru intensitatea moderată și textura sa netedă, care asigură o experiență plăcută și consistentă.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun  Malboro Light la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 8,
+      "name": "Tutun  Malboro Negru la găleată și la pungă.png",
+      "category": "Tutun la găleată",
+      "description": "Tutunul Marlboro oferă o aromă bogată și echilibrată, cu note ușor lemnoase și accente subtile de dulceață. Este apreciat pentru intensitatea moderată și textura sa netedă, care asigură o experiență plăcută și consistentă.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun  Malboro Negru la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 9,
+      "name": "Tutun  Malboro Red la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Tutunul Marlboro oferă o aromă bogată și echilibrată, cu note ușor lemnoase și accente subtile de dulceață. Este apreciat pentru intensitatea moderată și textura sa netedă, care asigură o experiență plăcută și consistentă.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun  Malboro Red la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 10,
+      "name": "Tutun  PallMall Red la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Tutunul Pall Mall are un gust echilibrat, cu accente ușor aromate și o tentă discretă de dulceață. Este cunoscut pentru arderea lentă și textura sa fină, oferind o experiență relaxantă.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun  PallMall Red la găleată și la pungă.png.jpg.png",
+      "rating": 5
+    },
+
+    {
+      "id": 11,
+      "name": "Tutun  PallMall S-Line Flow la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Tutunul Pall Mall are un gust echilibrat, cu accente ușor aromate și o tentă discretă de dulceață. Este cunoscut pentru arderea lentă și textura sa fină, oferind o experiență relaxantă.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun  PallMall S-Line Flow la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 12,
+      "name": "Tutun Dunhill Alb  la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Tutunul Dunhill este cunoscut pentru calitatea sa superioară și rafinamentul aromelor. Oferă o experiență echilibrată, cu note fine, ușor lemnoase, și accente subtile de dulceață.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Dunhill Alb  la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 13,
+      "name": "Tutun Dunhill Albastru  la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Tutunul Dunhill este cunoscut pentru calitatea sa superioară și rafinamentul aromelor. Oferă o experiență echilibrată, cu note fine, ușor lemnoase, și accente subtile de dulceață.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Dunhill Albastru  la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 14,
+      "name": "Tutun Dunhill Enigma la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Tutunul Dunhill este cunoscut pentru calitatea sa superioară și rafinamentul aromelor. Oferă o experiență echilibrată, cu note fine, ușor lemnoase, și accente subtile de dulceață.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Dunhill Enigma la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 15,
+      "name": "Tutun Dunhill Evoque Blue la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Tutunul Dunhill este cunoscut pentru calitatea sa superioară și rafinamentul aromelor. Oferă o experiență echilibrată, cu note fine, ușor lemnoase, și accente subtile de dulceață.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Dunhill Evoque Blue la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 16,
+      "name": "Tutun Dunhill Evoque Bronze la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Tutunul Dunhill este cunoscut pentru calitatea sa superioară și rafinamentul aromelor. Oferă o experiență echilibrată, cu note fine, ușor lemnoase, și accente subtile de dulceață.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Dunhill Evoque Bronze la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 17,
+      "name": "Tutun Dunhill Evoque Bronze la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Tutunul Dunhill este cunoscut pentru calitatea sa superioară și rafinamentul aromelor. Oferă o experiență echilibrată, cu note fine, ușor lemnoase, și accente subtile de dulceață.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Dunhill Evoque Bronze la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 18,
+      "name": "Tutun Dunhill Gri la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Tutunul Dunhill este cunoscut pentru calitatea sa superioară și rafinamentul aromelor. Oferă o experiență echilibrată, cu note fine, ușor lemnoase, și accente subtile de dulceață.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Dunhill Gri la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 19,
+      "name": "Tutun Dunhill London la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Tutunul Dunhill este cunoscut pentru calitatea sa superioară și rafinamentul aromelor. Oferă o experiență echilibrată, cu note fine, ușor lemnoase, și accente subtile de dulceață.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Dunhill London la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 20,
+      "name": "Tutun Dunhill Mov la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Tutunul Dunhill este cunoscut pentru calitatea sa superioară și rafinamentul aromelor. Oferă o experiență echilibrată, cu note fine, ușor lemnoase, și accente subtile de dulceață.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Dunhill Mov la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 21,
+      "name": "Tutun Dunhill Negru la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Tutunul Dunhill este cunoscut pentru calitatea sa superioară și rafinamentul aromelor. Oferă o experiență echilibrată, cu note fine, ușor lemnoase, și accente subtile de dulceață.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Dunhill Negru la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 22,
+      "name": "Tutun Dunhill Signature Alb la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Tutunul Dunhill este cunoscut pentru calitatea sa superioară și rafinamentul aromelor. Oferă o experiență echilibrată, cu note fine, ușor lemnoase, și accente subtile de dulceață.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Dunhill Signature Alb la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 23,
+      "name": "Tutun Dunhill Signature Turquoise la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Tutunul Dunhill este cunoscut pentru calitatea sa superioară și rafinamentul aromelor. Oferă o experiență echilibrată, cu note fine, ușor lemnoase, și accente subtile de dulceață.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Dunhill Signature Turquoise la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 24,
+      "name": "Tutun Golden Virginia la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Golden Virginia este un tutun cu un gust natural, ușor dulceag, cu note subtile de lemn și nuci, oferind o fumărie fină și echilibrată. Aroma sa este mai puțin intensă, fiind apreciată de cei care preferă un gust mai delicat și mai puțin agresiv.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Golden Virginia la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 25,
+      "name": "Tutun Kent 7 la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Tutunul Kent oferă o aromă echilibrată, cu note fine și sofisticate, apreciată pentru calitatea sa premium. Gustul său distinct combină tonuri ușor dulci cu accente subtile de intensitate.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Kent 7 la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 26,
+      "name": "Tutun Kent 8 la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Tutunul Kent oferă o aromă echilibrată, cu note fine și sofisticate, apreciată pentru calitatea sa premium. Gustul său distinct combină tonuri ușor dulci cu accente subtile de intensitate.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Kent 8 la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 27,
+      "name": "Tutun Kent L&M la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Tutunul Kent oferă o aromă echilibrată, cu note fine și sofisticate, apreciată pentru calitatea sa premium. Gustul său distinct combină tonuri ușor dulci cu accente subtile de intensitate.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Kent L&M la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 28,
+      "name": "Tutun Kent LM la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Tutunul Kent oferă o aromă echilibrată, cu note fine și sofisticate, apreciată pentru calitatea sa premium. Gustul său distinct combină tonuri ușor dulci cu accente subtile de intensitate.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Kent LM la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 29,
+      "name": "Tutun Kent Nanotek la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Tutunul Kent oferă o aromă echilibrată, cu note fine și sofisticate, apreciată pentru calitatea sa premium. Gustul său distinct combină tonuri ușor dulci cu accente subtile de intensitate.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Kent Nanotek la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 30,
+      "name": "Tutun Kent True la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Tutunul Kent oferă o aromă echilibrată, cu note fine și sofisticate, apreciată pentru calitatea sa premium. Gustul său distinct combină tonuri ușor dulci cu accente subtile de intensitate.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Kent True la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 31,
+      "name": "Tutun Lucky Strike la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Lucky Strike se remarcă printr-un gust bogat și intens, cu o aromă autentică de tutun prăjit. Este apreciat pentru caracterul său robust și inconfundabil.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Lucky Strike la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 32,
+      "name": "Tutun PallMall Albastru la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Pall Mall se caracterizează printr-o aromă netedă, cu note ușor dulci și accente subtile lemnoase. Tutunul său oferă o experiență echilibrată, cu un gust lejer și neagresiv, fiind ideal pentru cei care preferă o senzație mai blândă și relaxantă.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun PallMall Albastru la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 33,
+      "name": "Tutun PallMall la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Pall Mall se caracterizează printr-o aromă netedă, cu note ușor dulci și accente subtile lemnoase. Tutunul său oferă o experiență echilibrată, cu un gust lejer și neagresiv, fiind ideal pentru cei care preferă o senzație mai blândă și relaxantă.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun PallMall la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 34,
+      "name": "Tutun Parliament la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Parliament se distinge printr-o aromă rafinată, cu tonuri delicate și un gust curat, datorită filtrului unic cu gol. Tutunul folosit oferă note fine și ușor aromate, creând o experiență premium, elegantă și satisfăcătoare.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Parliament la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 35,
+      "name": "Tutun Rothmans la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Rothmans oferă o aromă bogată și echilibrată, cu un gust plin, dar neted. Este apreciat pentru calitatea tutunului său, care combină tonuri ușor lemnoase cu accente discrete de dulceață, oferind o experiență sofisticată.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Rothmans la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 36,
+      "name": "Tutun Sobranie Blue la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Sobranie se remarcă printr-o aromă luxoasă și intensă, cu note complexe și rafinate. Este cunoscut pentru tutunul de înaltă calitate, care oferă un gust bogat, elegant și distinctiv, potrivit pentru cei care apreciază exclusivitatea.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Sobraine Blue la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 37,
+      "name": "Tutun Sobranie Blue Light la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Sobranie se remarcă printr-o aromă luxoasă și intensă, cu note complexe și rafinate. Este cunoscut pentru tutunul de înaltă calitate, care oferă un gust bogat, elegant și distinctiv, potrivit pentru cei care apreciază exclusivitatea.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Sobraine Blue Light la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 38,
+      "name": "Tutun Sobranie Black Russian la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Sobranie se remarcă printr-o aromă luxoasă și intensă, cu note complexe și rafinate. Este cunoscut pentru tutunul de înaltă calitate, care oferă un gust bogat, elegant și distinctiv, potrivit pentru cei care apreciază exclusivitatea.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Sobranie Black Russian la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 39,
+      "name": "Tutun Sobranie Chrome la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Sobranie se remarcă printr-o aromă luxoasă și intensă, cu note complexe și rafinate. Este cunoscut pentru tutunul de înaltă calitate, care oferă un gust bogat, elegant și distinctiv, potrivit pentru cei care apreciază exclusivitatea.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Sobranie Chrome la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 40,
+      "name": "Tutun Sobranie Cocktail la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Sobranie se remarcă printr-o aromă luxoasă și intensă, cu note complexe și rafinate. Este cunoscut pentru tutunul de înaltă calitate, care oferă un gust bogat, elegant și distinctiv, potrivit pentru cei care apreciază exclusivitatea.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Sobranie Cocktail la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 41,
+      "name": "Tutun Sobranie Roșu la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Sobranie se remarcă printr-o aromă luxoasă și intensă, cu note complexe și rafinate. Este cunoscut pentru tutunul de înaltă calitate, care oferă un gust bogat, elegant și distinctiv, potrivit pentru cei care apreciază exclusivitatea.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Sobraine Blue Light la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 42,
+      "name": "Tutun Sobranie Roz la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Sobranie se remarcă printr-o aromă luxoasă și intensă, cu note complexe și rafinate. Este cunoscut pentru tutunul de înaltă calitate, care oferă un gust bogat, elegant și distinctiv, potrivit pentru cei care apreciază exclusivitatea.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Sobranie Roz la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 43,
+      "name": "Tutun Sobranie White la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Sobranie se remarcă printr-o aromă luxoasă și intensă, cu note complexe și rafinate. Este cunoscut pentru tutunul de înaltă calitate, care oferă un gust bogat, elegant și distinctiv, potrivit pentru cei care apreciază exclusivitatea.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Sobranie White la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 44,
+      "name": "Tutun Viceroy la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Viceroy oferă o aromă echilibrată, cu un gust consistent și accesibil. Tutunul său are tonuri ușor lemnoase și accente subtile, fiind apreciat pentru senzația netedă și plăcută.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Viceroy la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 45,
+      "name": "Tutun Virginia Slims Ultra Lights la găleată și la pungă.",
+      "category": "Tutun la găleată",
+      "description": "Tutunul Virginia se caracterizează printr-o aromă dulce naturală, cu note ușor fructate și accente delicate de miere. Este recunoscut pentru gustul său neted și echilibrat, oferind o experiență plăcută și aromată.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Virginia Slims Ultra Lights la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 46,
+      "name": "Tutun Vogue La Cigarette Bleue la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Vogue se remarcă printr-o aromă fină și elegantă, cu tonuri subtile de dulceață. Tutunul oferă o experiență ușoară și sofisticată, potrivită pentru cei care preferă un gust delicat și rafinat.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Vogue La Cigarette Bleue la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 47,
+      "name": "Tutun Vogue La Cigarette Lilias la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Vogue se remarcă printr-o aromă fină și elegantă, cu tonuri subtile de dulceață. Tutunul oferă o experiență ușoară și sofisticată, potrivită pentru cei care preferă un gust delicat și rafinat.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Vogue La Cigarette Lilias la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 48,
+      "name": "Tutun Vogue La Cigarette Rose la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Vogue se remarcă printr-o aromă fină și elegantă, cu tonuri subtile de dulceață. Tutunul oferă o experiență ușoară și sofisticată, potrivită pentru cei care preferă un gust delicat și rafinat.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Vogue La Cigarette Rose la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 49,
+      "name": "Tutun Vogue La Cigarette Voire la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Vogue se remarcă printr-o aromă fină și elegantă, cu tonuri subtile de dulceață. Tutunul oferă o experiență ușoară și sofisticată, potrivită pentru cei care preferă un gust delicat și rafinat.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Vogue La Cigarette Voire la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 50,
+      "name": "Tutun Winston Alb la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Tutunul Winston este cunoscut pentru aroma sa puternică și plină, cu note de tutun prăjit și accente ușor lemnoase. Oferă o experiență de fumat echilibrată și satisfăcătoare, apreciată pentru calitatea constantă și gustul său robust.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Winston Alb la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 51,
+      "name": "Tutun Winston Albastru la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Tutunul Winston este cunoscut pentru aroma sa puternică și plină, cu note de tutun prăjit și accente ușor lemnoase. Oferă o experiență de fumat echilibrată și satisfăcătoare, apreciată pentru calitatea constantă și gustul său robust.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Winston Albastru la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 52,
+      "name": "Tutun Winston Roșu la găleată și la pungă",
+      "category": "Tutun la găleată",
+      "description": "Tutunul Winston este cunoscut pentru aroma sa puternică și plină, cu note de tutun prăjit și accente ușor lemnoase. Oferă o experiență de fumat echilibrată și satisfăcătoare, apreciată pentru calitatea constantă și gustul său robust.",
+      "cantitate": "1kg",
+      "price": {
+        "Tocat": 100.00,
+        "0.3 mm": 120.00,
+        "0.2 mm": 140.00,
+        "0.1 mm": 160.00,
+        "Premium": 180.00
+      },
+      "image": "/src/assets/Tutun Winston Roșu la găleată și la pungă.png",
+      "rating": 5
+    },
+
+    {
+      "id": 53,
+      "name": "Tutun Camel Compact Black la Pungă",
+      "category": "Tutun la pungă",
+      "description": "Camel – Aromă clasică de tutun american, cu un profil echilibrat, ușor dulceag și o notă subtilă de condimente. Este cunoscut pentru finețea și netezimea sa.",
+      "price": {
+        "200g": 50.00,
+        "500g": 100.00,
+        "1000g": 140.00
+      },
+      "image": "/src/assets/Tutun Camel Compact Black la Pungă.png",
+      "rating": 4.9
+    },
+    {
+      "id": 54,
+      "name": "Tutun Camel la Pungă",
+      "category": "Tutun la pungă",
+      "description": "Camel – Aromă clasică de tutun american, cu un profil echilibrat, ușor dulceag și o notă subtilă de condimente. Este cunoscut pentru finețea și netezimea sa.",
+      "price": {
+        "200g": 50.00,
+        "500g": 100.00,
+        "1000g": 140.00
+      },
+      "image": "/src/assets/Tutun Camel la Pungă.png",
+      "rating": 4.9
+    },
+    {
+      "id": 55,
+      "name": "Tutun Camel Originals Filters Long la Pungă",
+      "category": "Tutun la pungă",
+      "description": "Camel – Aromă clasică de tutun american, cu un profil echilibrat, ușor dulceag și o notă subtilă de condimente. Este cunoscut pentru finețea și netezimea sa.",
+      "price": {
+        "200g": 50.00,
+        "500g": 100.00,
+        "1000g": 140.00
+      },
+      "image": "/src/assets/Tutun Camel Originals Filters Long la Pungă.png",
+      "rating": 4.9
+    },
+    {
+      "id": 56,
+      "name": "Tutun Davidoff Classic la Pungă",
+      "category": "Tutun la pungă",
+      "description": "Davidoff – Elegant și rafinat, cu o aromă de tutun premium, bine echilibrată, având tonuri ușor pământii și o notă fină de lemn sau nuci.",
+      "price": {
+        "200g": 50.00,
+        "500g": 100.00,
+        "1000g": 140.00
+      },
+      "image": "/src/assets/Tutun Davidoff Classic la Pungă.png",
+      "rating": 4.9
+    },
+    {
+      "id": 57,
+      "name": "Tutun Davidoff la Pungă",
+      "category": "Tutun la pungă",
+      "description": "Davidoff – Elegant și rafinat, cu o aromă de tutun premium, bine echilibrată, având tonuri ușor pământii și o notă fină de lemn sau nuci.",
+      "price": {
+        "200g": 50.00,
+        "500g": 100.00,
+        "1000g": 140.00
+      },
+      "image": "/src/assets/Tutun Davidoff la Pungă.png",
+      "rating": 4.9
+    },
+    {
+      "id": 58,
+      "name": "Tutun Dunhill Negru la Pungă",
+      "category": "Tutun la pungă",
+      "description": "Dunhill – Sofisticat și rafinat, oferă o aromă curată și premium, cu tonuri subtile de tutun uscat, dulceag și un postgust moale.",
+      "price": {
+        "200g": 50.00,
+        "500g": 100.00,
+        "1000g": 140.00
+      },
+      "image": "/src/assets/Tutun Dunhill Negru la Pungă.png",
+      "rating": 5.0
+    },
+    {
+      "id": 59,
+      "name": "Tutun Kent 7 la Pungă",
+      "category": "Tutun la pungă",
+      "description": "Kent – Aromă ușoară și netedă, cu o combinație de tutun dulce și subtil condimentat, concepută pentru o experiență echilibrată.",
+      "price": {
+        "200g": 50.00,
+        "500g": 100.00,
+        "1000g": 140.00
+      },
+      "image": "/src/assets/Tutun Kent 7 la Pungă.png",
+      "rating": 4.9
+    },
+    {
+      "id": 60,
+      "name": "Tutun Kent Core la Pungă",
+      "category": "Tutun la pungă",
+      "description": "Kent – Aromă ușoară și netedă, cu o combinație de tutun dulce și subtil condimentat, concepută pentru o experiență echilibrată.",
+      "price": {
+        "200g": 50.00,
+        "500g": 100.00,
+        "1000g": 140.00
+      },
+      "image": "/src/assets/Tutun Kent Core la Pungă.png",
+      "rating": 4.9
+    },
+    {
+      "id": 61,
+      "name": "Tutun L&M Rosu la Pungă",
+      "category": "Tutun la pungă",
+      "description": "L&M – Aromă accesibilă și versatilă, cu note de tutun simplu, ușor dulce și echilibrat. Este apreciată pentru simplitatea sa.",
+      "price": {
+        "200g": 50.00,
+        "500g": 100.00,
+        "1000g": 140.00
+      },
+      "image": "/src/assets/Tutun L&M Rosu la Pungă.png",
+      "rating": 4.9
+    },
+    {
+      "id": 62,
+      "name": "Tutun LUCKY STRIKE la Pungă",
+      "category": "Tutun la pungă",
+      "description": "Lucky Strike – Aromă intensă și prăjită, cu o notă subtilă de caramel datorită procesului de 'toasted'. Este adesea asociat cu o experiență de fumat bogată și distinctă.",
+      "price": {
+        "200g": 50.00,
+        "500g": 100.00,
+        "1000g": 140.00
+      },
+      "image": "/src/assets/Tutun LUCKY STRIKE la Pungă.png",
+      "rating": 4.9
+    },
+    {
+      "id": 63,
+      "name": "Tutun Malboro la Pungă",
+      "category": "Tutun la pungă",
+      "description": "Malboro – Puternic și robust, cu un gust autentic de tutun american. Aromele sunt pline și directe, potrivite pentru fumători care preferă intensitatea.",
+      "price": {
+        "200g": 50.00,
+        "500g": 100.00,
+        "1000g": 140.00
+      },
+      "image": "/src/assets/Tutun Malboro la Pungă.png",
+      "rating": 4.9
+    },
+    {
+      "id": 64,
+      "name": "Tutun Malboro Touch Plus Xl la Pungă",
+      "category": "Tutun la pungă",
+      "description": "Malboro – Puternic și robust, cu un gust autentic de tutun american. Aromele sunt pline și directe, potrivite pentru fumători care preferă intensitatea.",
+      "price": {
+        "200g": 50.00,
+        "500g": 100.00,
+        "1000g": 140.00
+      },
+      "image": "/src/assets/Tutun Malboro Touch Plus Xl la Pungă.png",
+      "rating": 4.9
+    },
+    {
+      "id": 65,
+      "name": "Tutun PallMall Albastru la Pungă",
+      "category": "Tutun la pungă",
+      "description": "Pall Mall – Aromă ușoară și netedă, cu o combinație de tutun dulce și subtil condimentat, concepută pentru o experiență echilibrată.",
+      "price": {
+        "200g": 50.00,
+        "500g": 100.00,
+        "1000g": 140.00
+      },
+      "image": "/src/assets/Tutun PallMall Albastru la Pungă.png",
+      "rating": 4.9
+    },
+    {
+      "id": 66,
+      "name": "Tutun PallMall Ascend Black la Pungă",
+      "category": "Tutun la pungă",
+      "description": "Pall Mall – Aromă ușoară și netedă, cu o combinație de tutun dulce și subtil condimentat, concepută pentru o experiență echilibrată.",
+      "price": {
+        "200g": 50.00,
+        "500g": 100.00,
+        "1000g": 140.00
+      },
+      "image": "/src/assets/Tutun PallMall Ascend Black la Pungă.png",
+      "rating": 4.9
+    },
+    {
+      "id": 67,
+      "name": "Tutun PallMall Extra Cut Black la Pungă",
+      "category": "Tutun la pungă",
+      "description": "Pall Mall – Aromă ușoară și netedă, cu o combinație de tutun dulce și subtil condimentat, concepută pentru o experiență echilibrată.",
+      "price": {
+        "200g": 50.00,
+        "500g": 100.00,
+        "1000g": 140.00
+      },
+      "image": "/src/assets/Tutun PallMall Extra Cut Black la Pungă.png",
+      "rating": 4.9
+    },
+    {
+      "id": 68,
+      "name": "Tutun PallMall Negru la Pungă",
+      "category": "Tutun la pungă",
+      "description": "Pall Mall – Aromă ușoară și netedă, cu o combinație de tutun dulce și subtil condimentat, concepută pentru o experiență echilibrată.",
+      "price": {
+        "200g": 50.00,
+        "500g": 100.00,
+        "1000g": 140.00
+      },
+      "image": "/src/assets/Tutun PallMall Negru la Pungă.png",
+      "rating": 4.9
+    },
+    {
+      "id": 69,
+      "name": "Tutun PallMall S-line Flow Rose la Pungă",
+      "category": "Tutun la pungă",
+      "description": "Pall Mall – Aromă ușoară și netedă, cu o combinație de tutun dulce și subtil condimentat, concepută pentru o experiență echilibrată.",
+      "price": {
+        "200g": 50.00,
+        "500g": 100.00,
+        "1000g": 140.00
+      },
+      "image": "/src/assets/Tutun PallMall S-line Flow Rose la Pungă.png",
+      "rating": 4.9
+    },
+    {
+      "id": 70,
+      "name": "Tutun Primus la Pungă",
+      "category": "Tutun la pungă",
+      "description": "Primus – Aromă de tutun mai aspră și intensă, cu tonuri pământii și un caracter direct, potrivit pentru cei care preferă tutunul nepretențios.",
+      "price": {
+        "200g": 50.00,
+        "500g": 100.00,
+        "1000g": 140.00
+      },
+      "image": "/src/assets/Tutun Primus la Pungă.png",
+      "rating": 4.9
+    },
+    {
+      "id": 71,
+      "name": "Tutun Senator la Pungă",
+      "category": "Tutun la pungă",
+      "description": "Senator – Aromă ușoară și fină, cu o notă discretă de dulceață și un profil echilibrat. Ideal pentru fumătorii care caută o experiență mai blândă.",
+      "price": {
+        "200g": 50.00,
+        "500g": 100.00,
+        "1000g": 140.00
+      },
+      "image": "/src/assets/Tutun Senator la Pungă.png",
+      "rating": 4.9
+    },
+    {
+      "id": 72,
+      "name": "Tutun Sobranie Classic la Pungă",
+      "category": "Tutun la pungă",
+      "description": "Sobranie – Luxos și complex, cu arome bogate și nuanțate, adesea având note de lemn sau mirodenii exotice. Este un brand exclusivist.",
+      "price": {
+        "200g": 50.00,
+        "500g": 100.00,
+        "1000g": 140.00
+      },
+      "image": "/src/assets/Tutun Sobranie Classic la Pungă.png",
+      "rating": 4.9
+    },
+    {
+      "id": 73,
+      "name": "Tutun Sobranie la Pungă",
+      "category": "Tutun la pungă",
+      "description": "Sobranie – Luxos și complex, cu arome bogate și nuanțate, adesea având note de lemn sau mirodenii exotice. Este un brand exclusivist.",
+      "price": {
+        "200g": 50.00,
+        "500g": 100.00,
+        "1000g": 140.00
+      },
+      "image": "/src/assets/Tutun Sobranie la Pungă.png",
+      "rating": 4.9
+    },
+    {
+      "id": 74,
+      "name": "Tutun Winston la Pungă",
+      "category": "Tutun la pungă",
+      "description": "Winston – Puternic și robust, cu un gust autentic de tutun american. Aromele sunt pline și directe, potrivite pentru fumători care preferă intensitatea.",
+      "price": {
+        "200g": 50.00,
+        "500g": 100.00,
+        "1000g": 140.00
+      },
+      "image": "/src/assets/Tutun Winston la Pungă.png",
+      "rating": 4.9
+    },
+    {
+      "id": 75,
+      "name": "Tutun Winston Roșu la Pungă",
+      "category": "Tutun la pungă",
+      "description": "Winston – Puternic și robust, cu un gust autentic de tutun american. Aromele sunt pline și directe, potrivite pentru fumători care preferă intensitatea.",
+      "price": {
+        "200g": 50.00,
+        "500g": 100.00,
+        "1000g": 140.00
+      },
+      "image": "/src/assets/Tutun Winston Roșu la Pungă.png",
+      "rating": 4.9
+    },
+    {
+      "id": 76,
+      "name": "Tutun Winston Selection la Pungă",
+      "category": "Tutun la pungă",
+      "description": "Winston – Puternic și robust, cu un gust autentic de tutun american. Aromele sunt pline și directe, potrivite pentru fumători care preferă intensitatea.",
+      "price": {
+        "200g": 50.00,
+        "500g": 100.00,
+        "1000g": 140.00
+      },
+      "image": "/src/assets/Tutun Winston Selection la Pungă.png",
+      "rating": 4.9
+    },
+    {
+      "id": 77,
+      "name": "Tutun Winston XS la Pungă",
+      "category": "Tutun la pungă",
+      "description": "Winston – Puternic și robust, cu un gust autentic de tutun american. Aromele sunt pline și directe, potrivite pentru fumători care preferă intensitatea.",
+      "price": {
+        "200g": 50.00,
+        "500g": 100.00,
+        "1000g": 140.00
+      },
+      "image": "/src/assets/Tutun Winston XS la Pungă.png",
+      "rating": 4.9
+    }
+    
+  ]
+  
