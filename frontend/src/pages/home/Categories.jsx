@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import category1 from '../../assets/Tutun Winston Albastru la găleată și la pungă.png';
-import category2 from '../../assets/Tutun Davidoff Classic la Pungă.png';
+const category1 = '/assets/Tutun Winston Albastru la găleată și la pungă.png';
+const category2 = '/assets/Tutun Davidoff Classic la Pungă.png';
 
 const Categories = () => {
     const categories = [

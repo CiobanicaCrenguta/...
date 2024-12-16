@@ -62,26 +62,25 @@ const SingleProduct = () => {
   return (
     <>
       <section
-  style={{
-    background: 'linear-gradient(135deg, rgba(252, 247, 247, 0.8), rgba(242, 241, 241, 0.8))', 
-    padding: '20px',
-    textAlign: 'center',
-    borderBottom: '1px solid #D1D1D1',
-  }}
->
-  <nav style={{ display: 'inline-block', fontSize: '1rem', color: '#6B6A6A' }}>
-    <Link to="/" style={{ color: '#6B6A6A', textDecoration: 'none', fontWeight: '500' }}>
-      Pagina Principală
-    </Link>
-    <span style={{ margin: '0 10px' }}>›</span>
-    <Link to="/Magazin" style={{ color: '#6B6A6A', textDecoration: 'none', fontWeight: '500' }}>
-      Magazin
-    </Link>
-    <span style={{ margin: '0 10px' }}>›</span>
-    <span style={{ color: '#4E4E4E', fontWeight: 'bold' }}>{singleProduct.name}</span>
-  </nav>
-</section>
-
+        style={{
+          background: 'linear-gradient(135deg, rgba(252, 247, 247, 0.8), rgba(242, 241, 241, 0.8))', 
+          padding: '20px',
+          textAlign: 'center',
+          borderBottom: '1px solid #D1D1D1',
+        }}
+      >
+        <nav style={{ display: 'inline-block', fontSize: '1rem', color: '#6B6A6A' }}>
+          <Link to="/" style={{ color: '#6B6A6A', textDecoration: 'none', fontWeight: '500' }}>
+            Pagina Principală
+          </Link>
+          <span style={{ margin: '0 10px' }}>›</span>
+          <Link to="/Magazin" style={{ color: '#6B6A6A', textDecoration: 'none', fontWeight: '500' }}>
+            Magazin
+          </Link>
+          <span style={{ margin: '0 10px' }}>›</span>
+          <span style={{ color: '#4E4E4E', fontWeight: 'bold' }}>{singleProduct.name}</span>
+        </nav>
+      </section>
 
       <section
         style={{
@@ -98,19 +97,19 @@ const SingleProduct = () => {
         }}
       >
         <div style={{ flex: '1 1 50%' }}>
-        <img
-  src={singleProduct?.image || 'https://via.placeholder.com/400x300'}
-  alt={singleProduct?.name}
-  style={{
-    width: '100%',
-    maxWidth: '700px', // Limit the maximum width
-    maxHeight: '600px', // Limit the maximum height
-    borderRadius: '15px',
-    boxShadow: '0 6px 15px rgba(0, 0, 0, 0.1)',
-    objectFit: 'cover', // Ensure the image maintains proportions
-    margin: '0 auto', // Center the image if necessary
-  }}
-/>
+          <img
+            src={singleProduct?.image || 'https://via.placeholder.com/400x300'}
+            alt={singleProduct?.name}
+            style={{
+              width: '100%',
+              maxWidth: '700px', // Limit the maximum width
+              maxHeight: '600px', // Limit the maximum height
+              borderRadius: '15px',
+              boxShadow: '0 6px 15px rgba(0, 0, 0, 0.1)',
+              objectFit: 'cover', // Ensure the image maintains proportions
+              margin: '0 auto', // Center the image if necessary
+            }}
+          />
         </div>
 
         <div style={{ flex: '1 1 50%', fontFamily: '"Poppins", sans-serif', color: '#4E4E4E' }}>
